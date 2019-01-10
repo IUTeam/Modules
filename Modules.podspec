@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "lecco" => "10915819@qq.com" }
   s.ios.deployment_target = "9.0"
-  s.source       = { :git => "https://github.com/IUTeam/Modules.git", :tag => "#{s.version}" }
-  s.source_files  ="Modules/*.swift"
+  s.source       = { :git => "https://github.com/IUTeam/Modules.git", :tag => s.version.to_s }
+  s.source_files  ="Classes/*.swift"
   s.swift_version = '4.2'
 #s.dependency "Alamofire"
 #s.dependency "SnapKit"

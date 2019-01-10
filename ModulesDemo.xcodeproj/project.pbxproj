@@ -73,7 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				91E4F17421E73A81004BC54D /* Modules.podspec */,
-				91E4F16121E73A00004BC54D /* Modules */,
+				91E4F16121E73A00004BC54D /* Classes */,
 				91E4F14E21E739CA004BC54D /* ModulesDemo */,
 				91E4F14D21E739CA004BC54D /* Products */,
 				11807BF29244CD636BCE282F /* Pods */,
@@ -102,7 +102,7 @@
 			path = ModulesDemo;
 			sourceTree = "<group>";
 		};
-		91E4F16121E73A00004BC54D /* Modules */ = {
+		91E4F16121E73A00004BC54D /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				91E4F16721E73A18004BC54D /* IUArticleController.swift */,
@@ -115,7 +115,7 @@
 				91E4F16421E73A18004BC54D /* IUTaxCalController.swift */,
 				91E4F16321E73A18004BC54D /* IUViewController.swift */,
 			);
-			path = Modules;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		E09D984CE4367AE33D5BC7BD /* Frameworks */ = {
